@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another bloudy fight at sea between the English and the Dutch upon the coast of Flanders. Sent in a letter to the Parliament of England, and the Councel of State, on Saturday last; with their debates likewise, and consultations, and resolutions, on the Sabbothday in the afternoon at White-Hall. Likewise the particulars of the fight, the number sunk, and 40 men of war and merchants taken, and brought into the Downs, under the command and protection of Dover Castle. Also a declaration of the lords embassadours of the States of Holland, touching war and peace, and the Parliaments final answer and resolution thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74873</idno>
+            <idno type="STC">Thomason E667_13</idno>
+            <idno type="STC">ESTC R206923</idno>
+            <idno type="EEBO-CITATION">99866011</idno>
+            <idno type="PROQUEST">99866011</idno>
+            <idno type="VID">166189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E667[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another bloudy fight at sea between the English and the Dutch upon the coast of Flanders. Sent in a letter to the Parliament of England, and the Councel of State, on Saturday last; with their debates likewise, and consultations, and resolutions, on the Sabbothday in the afternoon at White-Hall. Likewise the particulars of the fight, the number sunk, and 40 men of war and merchants taken, and brought into the Downs, under the command and protection of Dover Castle. Also a declaration of the lords embassadours of the States of Holland, touching war and peace, and the Parliaments final answer and resolution thereunto.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G: Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 6: Cats. G: Schaep. Vandperre.</note>
+                  <note>Annotation on Thomason copy: "June 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166189:1" rendition="simple:additions"/>
+            <p>Another BLOVDY FIGHT AT SEA BETWEEN The Engliſh and the Dutch upon the Coaſt of Flanders. Sent in a Letter to the Parliament of England, and the Councel of State, on Saturday laſt; with their debates likewiſe, and Conſultations, and Reſolutions, on the Sabbothday in the afternoon at White-Hall.</p>
+            <p>LIKEWISE The particulars of the Fight, the number ſunk, and 40 men of War and Merchants taken, and brought into the Downs, under the command and protection of Dover Caſtle.</p>
+            <p>ALSO A Declaration of the Lords Embaſſadours of the States of Holland, touching War and Peace, and the Parliaments final Anſwer and Reſolution thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be forthwith Printed and Publiſhed, and diſperſed throughout the ſeveral Counties in England and Wales, and the Town of Berwick.</p>
+                        <closer>
+                           <signed>Signed G. Nothro, Cler.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>June. 15.</add> 
+               <hi>LONDON:</hi> Printed for <hi>G: HORTON.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166189:2"/>
+            <pb n="3" facs="tcp:166189:2"/>
+            <head>A PAPER Delivered by the LORDS EMBASSADORS To the Councel of State.</head>
+            <opener>
+               <salute>Most Honourable Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E are here by reaſon of an unhappy and unexpected miſ<g ref="char:EOLhyphen"/>chance; An horrible report hath amazed us, that a fight at ſea ſhould have been betwixt the Fleet of this Com<g ref="char:EOLhyphen"/>mon-wealth and of the united Provinces, and that ours ſhould have been the reaſon of this unfortunate buſi<g ref="char:EOLhyphen"/>neſſe, That we began the fight, and that thereupon is fought moſt cruelly; and that from thence the rumor of the breaking off the treaty,
+<pb n="4" facs="tcp:166189:3"/>and of open war (which ſhould be very near at hand between the two Nations) was ſpread: We aſtoniſhed by this ſad report, direct our ſelves to this honourable Aſſembly and do Declare before God, and out of all our Hearts, that the Fact, ſo as it is reported, is committed without the knowledge, and againſt the will of the States of the united Provinces our Lords, and of us their Embaſſadours. Moreover, we do affirm, That the hearts of ours do deſire nothing but Unity, Peace, League, and a very near friendſhip with this Common-wealth, and hope that withall their wiſhes. In the mean while, we do think it not to be amiſſe, if we give notice unto your honours, that we have re<g ref="char:EOLhyphen"/>ceived letters from the Admiral of the Fleet of the United Provinces Dated the 30 of the laſt moneth, wherein the occaſion and reaſon of the ſaid Fight quite otherwiſe is declared then the common Report is; for the truth of which buſineſſe, we ſuppoſe to be convenient to inquire exactly; but this is worth obſervation in the mean time, That our Ad<g ref="char:EOLhyphen"/>miral <hi>Trump</hi> in the ſame letter doth declare plainly to have no other Order from the Lords the States, then to ſail about, and to view the ſhore and coaſt of our country, as far as Oſtend and Newport, and no further. By which it doth appear as clearly as the Sun is under heaven that by all means the States of the United Provinces have had no mind to attempt any thing againſt the Fleet or other ſhips of this Common<g ref="char:EOLhyphen"/>wealth. If any thing then in this buſineſſe be done otherwiſe then ought to be, this doth not concern the ſaid States, but them which have executed the ſaid buſineſſe, and let them make it good. We have been here now almoſt ſix moneths about the concluding a league, by ſpe<g ref="char:EOLhyphen"/>ciall order of the States, and have delivered ſome days ago to your Commiſſioners a paper, in which not onely the different points touch<g ref="char:EOLhyphen"/>ing the Treaty, but alſo the means by which the ſame could be brought to a good agreement, and reconciled one with another, were ſufficient<g ref="char:EOLhyphen"/>ly declared; ſo that we did expect nothing every day, but a happy end to ſo good a work; and truly that excellent matter may in very few hours be finiſhed. But who ſhould ever beleeve that ſo noble a work, and deſired with ſo many wiſhes of all honeſt men, and eſpecially of all the Churches of the Reformed Chriſtian Religion, ſhould be cut off or hindred by any ſuch imprudent and turbulent man (whoſoever he may be) without knowledge &amp; againſt the wil of the Lords the States? by Law and cuſtome of all nations is very well known, that he to
+<pb n="5" facs="tcp:166189:3"/>whom a charge is given in particular things, an Embaſſadour in pub<g ref="char:EOLhyphen"/>lick Buſineſs going beyond the limit of their Commiſſions, a General of an army Depopulating without order of his Superiours any grounds of the Neighbours; a wild beaſt doing any miſchief after it hath broken its bond, that not the Maſters but thoſe that have broken the bond are obliged, eſpecially if the diſapproving of the ſame Maſters followeth thereupon; which without queſtion (if the buſineſſe be ſo as it is rela<g ref="char:EOLhyphen"/>ted) is to be expected from the States of the United Provinces. In the mean while we make no doubt, that to attempt any Hoſtility be<g ref="char:EOLhyphen"/>fore the other party is heard, cannot be approved neither by God, nor by any men, eſpecially Chriſtians. It is a cuſtome by all reaſonable na<g ref="char:EOLhyphen"/>tions to demand reſtitution of their Goods if any trouble be done, and in caſe ſatisfaction be given or offered, to lay aſide all Hoſtility. And it is no wonder that all Nations are ſo much againſt war, and inclined to eſtabliſh a Peace, the War being plainly a cruel Monſter, a world of evill, and a meer deluge of innocent bloud; therefore the moſt holy Fa<g ref="char:EOLhyphen"/>thers of our Religion have expreſſely declared the war (although juſt) to be execrable, eſpecially in relation to the Chriſtians who are taught by their meekeſt Savior to ſpare other mens bloud as well as their own. But amongſt all kind of wars this is reputed the moſt deteſtable and horri<g ref="char:EOLhyphen"/>ble if between theſe nations war be riſen. Truly the experience teach<g ref="char:EOLhyphen"/>eth us, that the beſt and ſtrongeſt wine (if it be corrupted) becomes the ſowereſt Vinegar; and indeed if two Nations having been friends of old times, of the ſame Religion, lovers of Liberty, joyning upon the ſame ſea, next Neighbours, both valiant and warlike be claſhed together, what is to be expected but the ruine of both, and as the Proverb ſaith; a Cadmean Victory. And what elſe is this then to afflict and depreſſe your Friends and Companions in Religion to pleaſe your enemies, and to give occaſion openly for to hurt them both. An Author, being none of the leaſt amongſt yours, hath very well compared, as we conceive, both the two Nations to two earthen pots, driving in the ſea with this device, if we hurt, we break; He hitted it very well that honeſt man, and we may believe you are of the ſame opinion. But if the two nations come to an agreement, Oh Lord, what ſtore of Happineſſe will this bring forth! The true Gods ſervice will be eſtabliſhed, the Sea be qui<g ref="char:EOLhyphen"/>et, &amp; opportunity taken away from all enemies to trouble them both, all Communions in Religion be reſoiled, and which is to be reputed the chie<g ref="char:EOLhyphen"/>feſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, to the moſt good and gracious Lord, Praiſes and Thankſgi<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng will be lift up into the Heavens.</p>
+            <pb n="6" facs="tcp:166189:4"/>
+            <p> We conclude then, moſt Honourable Lords, and inſtantly demand and deſire, ſo as we have longed to propoſe unto your Honours this three days ſince;</p>
+            <p>Firſt, That a Copy may be given unto us of the Relation of the things that are paſt.</p>
+            <p>Secondly, That we may ſend that over by your leave to our Lords the States, and that the other part being heard, the truth of the buſineſs may be known.</p>
+            <p>Thirdly, That in the mean while all things may be kept whole and untouched.</p>
+            <p>Fourthly, That by no means the buſineſs of the concluding the Trea<g ref="char:EOLhyphen"/>ty be put off, and that ſuch unfortunate miſchances may be avoided, and an everlaſting Peace may be eſtabliſhed between both the Nations.</p>
+            <p>All which we deſire of all our hearts, the great and bountifull God, the Author of Peace will be pleaſed to grant us.</p>
+            <closer>
+               <signed>Signed, Cats. G: Schaep. Vandeperre.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The anſwer of the Parliament of the Common wealth of <hi>ENGLAND.</hi>
+            </head>
+            <p>THe Parliament of the Common-wealth of England, calling to mind with what continued Demonſtrations of Friendſhip and ſincere Affections, from the very beginning of their inte<g ref="char:EOLhyphen"/>ſtine troubles, they have proceeded towards their Neighbours of the U<g ref="char:EOLhyphen"/>nited Provinces, omitting nothing on their part that might conduce to a good correſpondence with them, and to a growing up into a more near and ſtrict Union then formerly, Do find themſelves much ſurprized with the unſuitable Returns that have been made thereunto, and eſpe<g ref="char:EOLhyphen"/>cially at the acts of Hoſtility lately commited in the very Roads of England upon the Fleet of this Common-wealth, the matter of Fact whereof ſtated in clear proofs, is hereunto annexed, Upon ſerious and deliberate conſideration of all, and of the ſeveral Papers delivered in by your Excellencies to the Councel of State, the Parliament thinks fit to give this anſwer to thoſe papers:</p>
+            <pb n="7" facs="tcp:166189:4"/>
+            <p> The Parl. as they would be willing to make a charita<g ref="char:EOLhyphen"/>ble conſtruction of the Expreſſions uſed in the ſaid Pa<g ref="char:EOLhyphen"/>pers, endeavouring to repreſent the late engagement of the Fleets to have hapned without the knowledge, and a<g ref="char:EOLhyphen"/>gainſt the mind of your Superiors; So when they conſi<g ref="char:EOLhyphen"/>der how diſagreeable to that profeſſion the Reſolutions and actions of your State and their Miniſters at Sea have been, even in the midſt of a Treaty offered by themſelves, and managed here by your Excellencies, the extraordi<g ref="char:EOLhyphen"/>nary preparations of One hundred and fifty ſail of Men of War, without any viſible occaſion but what doth now appear (a juſt ground of Jealouſie in your own judge<g ref="char:EOLhyphen"/>ments, when your Lordſhips pretended to excuſe it) and the inſtructions themſelves given by your ſaid Superiors to their Commanders at Sea, Do find too much cauſe to believe, That the Lords the States General of the United Provinces have an intention, by force to uſurp the known Rights of England in the Seas, to deſtroy the Fleets that are, under God, their Wals and Bulwarks, and thereby expoſe this Common-wealth to Invaſion at their plea<g ref="char:EOLhyphen"/>ſure, as by this late Action they have attempted to do: Whereupon the Parliament conceive they are obliged to endeavour, with Gods aſſiſtance, as they ſhall have op<g ref="char:EOLhyphen"/>portunity, to ſeek repairation of the wrongs already ſuf<g ref="char:EOLhyphen"/>fered, and ſecurity that the like be not attempted for the future.</p>
+            <p>Nevertheleſs, with this mind and deſire, That all diffe<g ref="char:EOLhyphen"/>rences betwixt the Nations may (if poſſible) be peace<g ref="char:EOLhyphen"/>ably and friendly compoſed, as God by his providence ſhall open a way thereunto, and circumſtances ſhall be conducing to render ſuch endeavors leſſe dilatory, and more effectual then thoſe of this kind heretofore uſed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave been.</p>
+            <closer>
+               <signed>Hen: Scobel, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:166189:5"/>
+            <p>But to deviate from circumſtances, and to proceed to realities, give me leave to preſent you with the Proverb of King James, who ſaid, Fair words would butter no Parſnips; Even ſo it is with the Common-wealth of England: That during an honourable Treaty, high af<g ref="char:EOLhyphen"/>fronts have been given, as before ſpecified, which upon mature deliberation, produced further action; as appears by the Narrative ſent to the Councel of State, who upon Sabbath day laſt, came to this reſult, That a Letter of thanks ſhould be returned to Vice-Admiral Peacock, for his gallantry performed upon the Coaſt of Flanders; the perfect Relation whereof take as followeth.</p>
+            <p>Capt. Peacock having intelligence of the Hollanders imperiouſneſs, reſolved to attempt ſome heroick At<g ref="char:EOLhyphen"/>chievement for his Countries honour: In purſuance whereof, ſailing to the coaſt of Flanders, met with two Dutchmen of War, who (upon Command in obedience to the Common-wealth of England) denied to ſtrike ſail, inſomuch that a bloudy fight began, and after a ſharp diſpute, we ſunk one, and took another, carrying about 40. pieces of Ordnance; ſince which time; divine Provi<g ref="char:EOLhyphen"/>dence decreeing victory, about 40 ſail are brought into Dover Peer under protection of the Caſtle; for which gallant ſervice, the Parliament hath returned a Letter of thanks and gratuity, to the further encouragement of the Sea-men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
